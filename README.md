@@ -1,58 +1,94 @@
-# Kshitij-Kumar
 <h1 align="center">Hi 👋, I'm Kshitij Kumar</h1>
-<h3 align="center">SIH 2025 Finalist | B.Tech CSE (AI & ML)</h3>
+<h3 align="center">SIH 2025 Finalist | B.Tech CSE (AI & ML) | Software Developer</h3>
 
 <p align="center">
-  Passionate developer building real-world, industry-focused software solutions.
+  <a href="https://www.linkedin.com/in/kshitij-kumar-766852298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Vkaran0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (AI & ML) student  
-- 🏆 Smart India Hackathon (SIH) 2025 Finalist  
-- 💻 Skilled in C++, Java, Python & Frontend Web Development  
-- 🧠 Currently learning Machine Learning  
-- ⚙️ Experience in industrial & hardware–software integrated projects  
+
+Hello, my name is **Kshitij Kumar**. I am a passionate software developer with hands-on experience in building **industry-level and production-ready projects**.
+
+I have worked on a successful industrial project in collaboration with **Hindalco Industries**, where I contributed to developing a **fault detection system for industrial machines**, focusing on real-time monitoring and reliability.
+
+Alongside industrial projects, I have built multiple **fully functional web applications**, including:
+- 🔹 Lost & Found Portal  
+- 🔹 Ride Matching Platform  
+- 🔹 Advanced Learning Management System (LMS)  
+
+These applications were developed using the **MERN stack**, with a focus on scalability, performance, and clean UI/UX.
+
+I am a **Smart India Hackathon (SIH) 2025 Finalist** and continuously work on improving my skills by solving real-world problems through technology.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-</p>
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- C++
+- Java
+- Python
+- Html
+- MERN
+- JavaScript
+
+### 🌐 Web Development
+- HTML, CSS
+- React.js
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Supabase
+
+### ⚙️ Hardware & Systems
+- IC Chip Programming
+- PCB Design & Fabrication
+- Hardware–Software Integration
+- Industrial & Embedded Systems
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,mongodb,git,github" />
-</p>
+## 📌 Key Projects
+
+🔧 **Industrial Fault Detection System**  
+• Developed for industrial machines in collaboration with Hindalco Industries  
+• Focused on fault monitoring and system reliability  
+
+🌐 **Ride Matching Web Platform**  
+• MERN-based full-stack application  
+• Real-time matching logic and responsive UI  
+
+🎓 **Advanced Learning Management System (LMS)**  
+• User authentication, dashboards, and modern features  
+• Scalable backend and clean frontend design  
+
+🔍 **Lost & Found Portal**  
+• Web platform to manage lost and found items efficiently  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vkaran0&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkaran0&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Top Projects
-- 🔧 Industrial Fault Detection System  
-- 🌐 Ride Matching Web Platform  
-- 🎓 Advanced Learning Management System (LMS)  
-- 🔍 Lost & Found Portal  
+## 🎯 Current Focus
+- Strengthening DSA & problem-solving skills  
+- Learning Machine Learning fundamentals  
+- Building scalable, industry-relevant software systems  
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Always learning, always building, always improving.*
